@@ -4,7 +4,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/Eugene45ua/MyFlask/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk2/badge.svg?branch=master"><br>
+<img src="https://github.com/Eugene45ua/MyFlask/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk2/badge.svg?branch=main"><br>
 
 
 Copyleft by Eugene.
