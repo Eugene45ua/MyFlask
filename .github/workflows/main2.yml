@@ -20,7 +20,7 @@ jobs:
     - name: Git clone our repo_HELLO MAN!
       uses: actions/checkout@v1
        
-    - name: Create ZIP deployment package_ SATURDAY'S EVENTS!  - 29/09/2024
+    - name: Create ZIP deployment package_ SATURDAY'S EVENTS!  29/09/2024
       run : zip -r ${{ env.DEPLOY_PACKAGE_NAME }} ./ -x *.git*
 
     - name: Configure my AWS Credentials
