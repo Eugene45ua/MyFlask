@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Git clone our repo_HELLO NATASHA!
+    - name: Git clone our repo_HELLO MAN!
       uses: actions/checkout@v1
        
     - name: Create ZIP deployment package_ SATURDAY'S EVENTS! 29/09/2024
